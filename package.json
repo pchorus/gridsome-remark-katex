@@ -1,0 +1,27 @@
+{
+  "name": "gridsome-remark-katex",
+  "version": "0.1.0",
+  "description": "Gridsome remark support for math equations using remark-math and katex",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pchorus/gridsome-remark-katex.git"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "katex",
+    "remark"
+  ],
+  "author": "Pascal Chorus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pchorus/gridsome-remark-katex/issues"
+  },
+  "homepage": "https://github.com/pchorus/gridsome-remark-katex#readme",
+  "dependencies": {
+    "katex": "^0.11.0",
+    "remark-math": "^1.0.6",
+    "unist-util-visit": "^2.0.0"
+  }
+}
