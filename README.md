@@ -79,3 +79,18 @@ module.exports = {
   }
 }
 ```
+
+### Adding Math Equations to your markdown files
+
+To insert a math expression in your text, put your katex math expression in $, e.g.
+```markdown
+The example for an inline math expression is $ (a+b)^2 = a^2 + 2ab + b^2 $. 
+```
+
+To insert a math expression on its own line horizontally centerd, put your katex math expression in $$ with line breaks, e.g.
+```markdown
+The example for a math expression:
+$$
+(a+b)^2 = a^2 + 2ab + b^2
+$$ 
+```

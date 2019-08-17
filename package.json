@@ -1,6 +1,6 @@
 {
   "name": "gridsome-remark-katex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gridsome remark support for math equations using remark-math and katex",
   "main": "index.js",
   "repository": {
